@@ -1,6 +1,6 @@
 # Building a Netflix Clone with NextJS, TailwindCSS & Prisma
 
-This is a repository for a Netflix Clone tutorial using NextJS, TailwindCSS & Prisma.
+This is a repository for a Netflix Clone using NextJS, TailwindCSS & Prisma.
 
 ### DEMO
 
