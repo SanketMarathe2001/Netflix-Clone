@@ -2,6 +2,12 @@
 
 This is a repository for a Netflix Clone tutorial using NextJS, TailwindCSS & Prisma.
 
+### DEMO
+
+
+https://github.com/SanketMarathe2001/Netflix-Clone/assets/58138946/0ae2086d-8e27-4429-a062-f14132c852e9
+
+
 Features:
 
 - Environment, Typescript, NextJS Setup
